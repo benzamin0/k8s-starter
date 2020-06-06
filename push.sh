@@ -1,2 +1,2 @@
-docker build --squash -t cloudeyes/sample-service .
-docker push cloudeyes/sample-service
+docker build --squash -t crazyybogus/sample-service .
+docker push crazyybogus/sample-service

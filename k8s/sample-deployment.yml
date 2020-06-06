@@ -31,7 +31,7 @@ spec:
         tier: sample-api
     spec:
       containers:
-      - image: cloudeyes/sample-service:latest
+      - image: crazyybogus/sample-service:latest
         imagePullPolicy: "Always"
         name: sample-api
         env:
